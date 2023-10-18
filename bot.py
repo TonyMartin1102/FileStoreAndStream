@@ -3,7 +3,7 @@
 import os
 import asyncio
 import traceback
-import pyrogram
+pip install pyrogram
 lazy_pic = os.environ.get("LAZY_PIC","")
 from binascii import (
     Error
