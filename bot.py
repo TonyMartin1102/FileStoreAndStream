@@ -3,7 +3,9 @@
 import os
 import asyncio
 import traceback
-
+>>> import pyrogram
+>>> pyrogram.__version__
+'x.y.z'
 
 lazy_pic = os.environ.get("LAZY_PIC","")
 from binascii import (
