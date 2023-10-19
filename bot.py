@@ -3,7 +3,7 @@
 import os
 import asyncio
 import traceback
-import pyrogram
+
 
 
 lazy_pic = os.environ.get("LAZY_PIC","")
